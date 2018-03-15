@@ -1,4 +1,4 @@
-public abstract class Vehical implements IDriveable {
+public abstract class Vehical {
     private String name;
     private int aveSpeed;
 

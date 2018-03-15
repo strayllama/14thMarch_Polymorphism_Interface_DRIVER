@@ -1,4 +1,4 @@
-public class QuadBike extends Vehical {
+public class QuadBike extends Vehical implements IDriveable {
     private int engineCc;
 
     public QuadBike() {

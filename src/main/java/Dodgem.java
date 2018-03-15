@@ -1,4 +1,4 @@
-public class Dodgem extends Vehical {
+public class Dodgem extends Vehical implements IDriveable {
     private int numberSeats;
 
     public Dodgem() {
